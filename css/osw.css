@@ -29,15 +29,6 @@ body {
     font-weight: 700;
 }
 
-@media (max-width: 767px) {
-    .header h1 {
-        font-size: 2em;
-    }
-    .header h3 {
-        font-size: 1.5em;
-    }
-}
-
 /* Custom Button Styles */
 
 .btn-dark {
@@ -190,6 +181,15 @@ hr.dark {
     -webkit-animation-duration:6s;
     -webkit-animation-direction:alternate;
     -webkit-animation-iteration-count:infinite;
+}
+
+@media (max-width: 767px) {
+    .header h1 {
+        font-size: 2em;
+    }
+    .header h3 {
+        font-size: 1.5em;
+    }
 }
 
 @keyframes headerCycle {
