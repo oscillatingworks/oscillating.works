@@ -67,6 +67,12 @@ hr.dark {
     border-color: #000;
 }
 
+/* Links with custom color */
+
+a.clean {
+    color: #333;
+}
+
 /* Side Menu */
 
 #sidebar-wrapper {
