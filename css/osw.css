@@ -248,6 +248,13 @@ a.clean {
     opacity: 0.8;
 }
 
+/* Blog */
+
+.blog {
+    padding: 50px 0;
+    background-color: #DED9FA;
+}
+
 /* Team */
 
 .team {
