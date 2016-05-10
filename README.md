@@ -5,6 +5,13 @@ This is the source code of the **oscillatingworks** organization website. It's
 hosted on [Github Pages](https://pages.github.com/), so all coded pushed
 into master branch makes it to production.
 
+Run locally
+-----------
+
+Install [Caddy server](https://caddyserver.com), and then execute `caddy` from
+the root directory of the project. You can find the website in your
+web at `localhost:8080`.
+
 Contributing
 ------------
 

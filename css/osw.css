@@ -57,6 +57,10 @@ body {
     background-color: rgba(255,255,255,0.8);
 }
 
+.btn-success {
+    border-radius: 0;
+}
+
 /* Custom Horizontal Rule */
 
 hr.small {
@@ -212,7 +216,7 @@ a.clean {
     40% {background-color:#D9F8FA;}
     60% {background-color:#E4FAD9;}
     80% {background-color:#FAEDD9;}
-} 
+}
 
 /* About */
 
@@ -230,22 +234,10 @@ a.clean {
     margin-bottom: 30px;
 }
 
-/* Portfolio */
+/* Labs */
 
-.portfolio {
+.labs {
     padding: 50px 0;
-}
-
-.portfolio-item {
-    margin-bottom: 30px;
-}
-
-.img-portfolio {
-    margin: 0 auto;
-}
-
-.img-portfolio:hover {
-    opacity: 0.8;
 }
 
 /* Blog */
