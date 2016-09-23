@@ -2,8 +2,11 @@ oscillatingworks.github.io
 ==========================
 
 This is the source code of the **oscillatingworks** organization website. It's
-hosted on [Github Pages](https://pages.github.com/), so all coded pushed
-into master branch makes it to production.
+hosted on [Netlify](https://www.netlify.com/), so all coded pushed
+into master branch makes it to production. It uses [Let's Encrypt](https://letsencrypt.org)
+to provide a secure connection.
+
+See it running now: https://www.oscillating.works
 
 Run locally
 -----------
@@ -17,7 +20,7 @@ Contributing
 
 We are here because we love open source, so we kindly accept contributions.
 Open an issue at https://github.com/oscillatingworks/oscillatingworks.github.io/issues or send
-us a Pull Request, we'll take a look at it.
+us a Pull Request, we'll take a look into it.
 
 Credits
 -------
