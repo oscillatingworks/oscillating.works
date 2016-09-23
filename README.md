@@ -1,5 +1,5 @@
-oscillatingworks.github.io
-==========================
+oscillating.works
+=================
 
 This is the source code of the **oscillatingworks** organization website. It's
 hosted on [Netlify](https://www.netlify.com/), so all coded pushed
