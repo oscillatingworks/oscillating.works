@@ -162,7 +162,7 @@ a.clean {
     margin: 5px 5px 0 0;
 }
 
-/* oscillatingworks font */
+/* oscillatingworks fonts */
 
 .oswfont {
     font-family: 'Nixie One', cursive;
@@ -218,6 +218,30 @@ a.clean {
     80% {background-color:#FAEDD9;}
 }
 
+/* Typed Cursor */
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
 /* About */
 
 .about {
@@ -262,4 +286,5 @@ a.clean {
 
 footer {
     padding: 100px 0;
+    background-color: #DED9FA;
 }
