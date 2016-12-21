@@ -36,4 +36,4 @@ by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/
 License
 -------
 
-Code released under the [Apache 2.0](https://github.com/oscillatingworks/oscillatingworks.github.io/blob/master/LICENSE) license.
+Code released under the [Apache 2.0](https://github.com/oscillatingworks/oscillating.works/blob/master/LICENSE) license.
