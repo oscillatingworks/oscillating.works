@@ -14,6 +14,7 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
 }
 
 .text-vertical-center {
@@ -286,5 +287,6 @@ a.clean {
 
 footer {
     padding: 100px 0;
+    font-family: 'Work Sans', sans-serif;
     background-color: #DED9FA;
 }
